@@ -1,0 +1,13 @@
+C:\Users\rakin\source\repos\Middle\Middle\bin\Debug\netcoreapp3.1\Middle.exe
+C:\Users\rakin\source\repos\Middle\Middle\bin\Debug\netcoreapp3.1\Middle.deps.json
+C:\Users\rakin\source\repos\Middle\Middle\bin\Debug\netcoreapp3.1\Middle.runtimeconfig.json
+C:\Users\rakin\source\repos\Middle\Middle\bin\Debug\netcoreapp3.1\Middle.runtimeconfig.dev.json
+C:\Users\rakin\source\repos\Middle\Middle\bin\Debug\netcoreapp3.1\Middle.dll
+C:\Users\rakin\source\repos\Middle\Middle\bin\Debug\netcoreapp3.1\Middle.pdb
+C:\Users\rakin\source\repos\Middle\Middle\obj\Debug\netcoreapp3.1\Middle.csprojAssemblyReference.cache
+C:\Users\rakin\source\repos\Middle\Middle\obj\Debug\netcoreapp3.1\Middle.AssemblyInfoInputs.cache
+C:\Users\rakin\source\repos\Middle\Middle\obj\Debug\netcoreapp3.1\Middle.AssemblyInfo.cs
+C:\Users\rakin\source\repos\Middle\Middle\obj\Debug\netcoreapp3.1\Middle.csproj.CoreCompileInputs.cache
+C:\Users\rakin\source\repos\Middle\Middle\obj\Debug\netcoreapp3.1\Middle.dll
+C:\Users\rakin\source\repos\Middle\Middle\obj\Debug\netcoreapp3.1\Middle.pdb
+C:\Users\rakin\source\repos\Middle\Middle\obj\Debug\netcoreapp3.1\Middle.genruntimeconfig.cache
